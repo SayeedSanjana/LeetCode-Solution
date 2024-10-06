@@ -28,6 +28,7 @@ public class MajorityElement {
     public static void main(String[]args){
         int nms[]={3,6,8,8,4,8,3,1};
         System.out.println(majorityElement(nms));
+        System.out.println();
 
 }
 }
